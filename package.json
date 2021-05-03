@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "postcss": "^8.2.13",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "css-loader": "^5.2.4",
+    "postcss-import": "^14.0.1",
+    "postcss-mixins": "^7.0.3",
+    "postcss-nested": "^5.0.5",
+    "postcss-simple-vars": "^6.0.3",
+    "style-loader": "^2.0.0"
+  },
+  "name": "platinum-travel",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
