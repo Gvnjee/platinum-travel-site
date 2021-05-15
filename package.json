@@ -14,6 +14,7 @@
     "postcss-mixins": "^7.0.3",
     "postcss-nested": "^5.0.5",
     "postcss-simple-vars": "^6.0.3",
+    "prettier": "2.3.0",
     "style-loader": "^2.0.0"
   },
   "name": "platinum-travel",

@@ -1,0 +1,17 @@
+.section-title{
+    font-size: 3.5rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.section-title--blue{
+    color: #2f5572;
+}
+
+.strong{
+    font-weight: 700;
+}
+
+.section__icon{
+    margin-right: 1.8rem;
+}

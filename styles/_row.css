@@ -1,6 +1,5 @@
 .row{
     margin-top: 10px;
- background-color: aliceblue;
 }
 
 .row__4{
@@ -19,4 +18,15 @@
 
 .row--gutters{
         padding-right: 65px;
+}
+
+.row__medium-6{
+    float: left;
+    margin-right: 5%;
+    width: 45%;
+}
+
+.row-equal-high{
+    float: none;
+    display: flex;
 }

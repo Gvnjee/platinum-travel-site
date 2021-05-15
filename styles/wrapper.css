@@ -12,3 +12,7 @@
 .wrapper--medium{
     max-width: 976px;
 }
+
+.wrapper-b-margin{
+    margin-bottom: 4rem;
+}
